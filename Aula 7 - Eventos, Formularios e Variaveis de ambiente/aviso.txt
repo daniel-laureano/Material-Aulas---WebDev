@@ -1,0 +1,1 @@
+Utilizamos o projeto da aula 6! (APIs, Hooks e Deploy)
